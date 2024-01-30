@@ -1,4 +1,4 @@
-### Hi there 👋
+### Preparing for DB 2024
 
 <!--
 **jacobbyun02/jacobbyun02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
